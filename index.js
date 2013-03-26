@@ -1,9 +1,9 @@
 // Require all of the plugins
 require('jquery-trigger-native');
-require('jquery-firstChild');
+require('jquery-first-child');
 require('jquery-waiter');
 
-var $ = require('jquery');
+var jQuery = require('jquery');
 
 //Export jquery
-module.exports = $;
+module.exports = jQuery;
