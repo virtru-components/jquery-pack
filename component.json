@@ -7,7 +7,8 @@
     "component/jquery": "*",
     "virtru/jquery-waiter": "*",
     "virtru/jquery-trigger-native": "*",
-    "virtru-components/jquery-first-child": "*"
+    "virtru-components/jquery-first-child": "*",
+    "virtru-components/simplemodal": "*"
   },
   "scripts": [
     "index.js"

@@ -2,6 +2,7 @@
 require('jquery-trigger-native');
 require('jquery-first-child');
 require('jquery-waiter');
+require('simplemodal');
 
 var jQuery = require('jquery');
 
