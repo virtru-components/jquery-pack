@@ -2,9 +2,9 @@
   "name": "jquery-pack",
   "repo": "virtru-components/jquery-pack",
   "description": "A collection of plugins for jquery",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "dependencies": {
-    "component/jquery": "*",
+    "components/jquery": "1.9.1",
     "virtru/jquery-waiter": "*",
     "virtru/jquery-trigger-native": "*",
     "virtru-components/jquery-first-child": "*",
