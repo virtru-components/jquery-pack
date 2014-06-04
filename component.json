@@ -5,8 +5,8 @@
   "version": "0.1.2",
   "dependencies": {
     "virtru-components/jquery": "2.1.0",
-    "virtru/jquery-waiter": "*",
-    "virtru/jquery-trigger-native": "*",
+    "virtru-components/jquery-waiter": "*",
+    "virtru-components/jquery-trigger-native": "*",
     "virtru-components/jquery-first-child": "*",
     "virtru-components/simplemodal": "*"
   },
