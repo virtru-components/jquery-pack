@@ -5,7 +5,7 @@
   "dependencies": {
     "jquery": "2.1.1",
     "jquery-waiter": "git+ssh://git@github.com:virtru-components/jquery-waiter#0.4.0",
-    "jquery-trigger-native": "git+ssh://git@github.com:virtru-components/jquery#0.2.0",
+    "jquery-trigger-native": "git+ssh://git@github.com:virtru-components/jquery-trigger-native#0.2.0",
     "jquery-first-child": "git+ssh://git@github.com:virtru-components/jquery-first-child#0.2.0",
     "simplemodal": "git+ssh://git@github.com:virtru-components/simplemodal#1.5.0"
   }
