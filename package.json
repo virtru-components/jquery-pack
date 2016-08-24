@@ -1,0 +1,15 @@
+{
+  "name": "jquery-pack",
+  "description": "A collection of plugins for jquery",
+  "version": "0.2.0",
+  "dependencies": {
+    "virtru-components/jquery": "2.1.1",
+    "virtru-components/jquery-waiter": "git+ssh://git@github.com:virtru-components/jquery-waiter#0.4.0",
+    "virtru-components/jquery-trigger-native": "git+ssh://git@github.com:virtru-components/jquery#0.2.0",
+    "virtru-components/jquery-first-child": "git+ssh://git@github.com:virtru-components/jquery-first-child#0.2.0",
+    "virtru-components/simplemodal": "git+ssh://git@github.com:virtru-components/simplemodal#1.5.0"
+  },
+  "scripts": [
+    "index.js"
+  ]
+}
